@@ -6,8 +6,6 @@ on:
       - main
 
 jobs:
-d
-  # Deploy job
   build:
     runs-on: ubuntu-latest
     steps:
